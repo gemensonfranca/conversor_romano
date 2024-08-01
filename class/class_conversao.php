@@ -1,7 +1,5 @@
 <?php
 
-// CONVETER NÚMEROS ARÁBICOS EM ROMANOS
-
 class Conversao {
     
     public $romano;
